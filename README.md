@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm currently working on Web Penetration Testing<br>I'm looking to collaborate on Penetration Testing<br>Ask me about Cybersecurity
+🕸 I'm Website 💻 Developer<br>🔥 I'm currently working on Web Penetration Testing<br>🙌 I'm looking to collaborate on Penetration Testing<br>🔐 Ask me about Cybersecurity
 
 
 ## 🌐 Socials:
